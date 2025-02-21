@@ -1,4 +1,4 @@
-package Exercise12;
+package Exercise1;
 
  class Point2D {
  private float x = 0.0f;
